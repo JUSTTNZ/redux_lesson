@@ -1,0 +1,11 @@
+.button {
+    padding: 7px 17px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: #000;
+    background-color: #e7e4e4;
+}
