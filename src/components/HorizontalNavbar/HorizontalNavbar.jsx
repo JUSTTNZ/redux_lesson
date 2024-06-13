@@ -10,10 +10,10 @@ const HorizontalNavbar = () => {
             <div className='profile-img-box'>
                 <i className="fa-solid fa-user"></i>
             </div>
-            <h2>John Wan</h2>
+            <h2>Chukwudi confidence</h2>
         </div>
         <form className='search-box'>
-            <input type='text' placeholder='John Wan'/>
+            <input type='text' placeholder='Chukwudi confidence'/>
             <Button name='Search'/>
         </form>
         </div>
